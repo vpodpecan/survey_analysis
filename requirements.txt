@@ -1,0 +1,5 @@
+scikit-learn==1.6.*
+dtreeviz==2.2.*
+umap-learn==0.5.*
+seaborn==0.13.*
+hdbscan==0.8.*
