@@ -1,0 +1,10 @@
+name: venv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - graphviz        # installs 'dot'
+  - openjdk         # Java Development Kit and runtime
+  - pip
+  - pip:
+    - -r requirements.txt
